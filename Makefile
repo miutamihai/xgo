@@ -1,2 +1,2 @@
-run:
-	@go run cmd/xgo/main.go
+build:
+	@go build -o xgo cmd/xgo/main.go
